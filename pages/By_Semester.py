@@ -64,14 +64,6 @@ def main():
         additional_content = fetch_github_readme(additional_url)
         st.markdown(additional_content, unsafe_allow_html=True)
 
-    # Additional Content tab (optional)
-    with tabs[6]:
-        st.subheader("Additional Content")
-        # Placeholder URL for additional content if needed
-        # Uncomment and update the URL if you have content for this tab
-        # additional_url = 'https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson02.md'
-        # additional_content = fetch_github_readme(additional_url)
-        # st.markdown(additional_content, unsafe_allow_html=True)
 
 
 if __name__ == "__main__":
