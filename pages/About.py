@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.markdown("""
-### About this platform  
+### 🌱 About this platform  
 
 + **Digital Teaching & Learning Archive:** This web platform is designed to archive and share classroom materials by semester for English Education majors. It hosts a variety of applications created to support both class instruction and student learning, tailored to the learning process and individual learner levels.
 
